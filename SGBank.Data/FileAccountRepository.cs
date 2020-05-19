@@ -14,7 +14,7 @@ namespace SGBank.Data
     public class FileAccountRepository : IAccountRepository
     {
         //convert back to private after testing
-        public string path = "C:/Users/Jeremy/source/repos/SGBank052020/SGBank.Data/Accounts.txt";
+        public string path = "C:/Users/Jeremy/source/repos/SGBank05182020DI/SGBank.Data/Accounts.txt";
 
 
         
